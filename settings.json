@@ -1,0 +1,16 @@
+// The setting.json file serves as the storage for cipher and holds the configurations on which this library depends on to work properly
+{
+
+    //the admin user(s) is an array which contains the login details for the admin. 
+    "admin_users": [
+        {
+            "username": "",
+            "password": ""
+        },
+        // {
+        //     "username": "",
+        //     "password": ""
+        // }
+    ]
+
+} 
