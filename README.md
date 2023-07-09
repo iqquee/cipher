@@ -1,3 +1,5 @@
+<img src="./templates/static/logo2.png"></img>
+
 <p align="center">
   <a href="" title="Cipher Docs Reference" rel="nofollow"><img src="https://img.shields.io/badge/go-documentation-blue.svg?style=flat" alt=Cipher Docs Reference"></a>
   <a href="" title="Latest Release" rel="nofollow"><img src="https://img.shields.io/github/v/release/iqquee/cipher?include_prereleases" alt="Latest Release"></a>
